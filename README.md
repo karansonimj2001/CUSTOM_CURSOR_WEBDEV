@@ -32,7 +32,7 @@ custom-cursor/
 👉 When you move the mouse, the custom cursor will smoothly follow along, replacing the default pointer.
 
 ## 🔧 How to Use
-
+LIVE LINK - https://karansonimj2001.github.io/CUSTOM_CURSOR_WEBDEV/
 ### Clone the repo:
 
 git clone https://github.com/your-username/CUSTOM_CURSOR_WEBDEV.git
